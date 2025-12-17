@@ -19,3 +19,7 @@ AI-powered resume screener that automatically classifies resumes into job catego
 
 
 
+
+
+https://github.com/user-attachments/assets/66c5c104-5f11-45a7-b696-d5e939afec12
+
