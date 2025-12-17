@@ -21,5 +21,4 @@ https://github.com/user-attachments/assets/66c5c104-5f11-45a7-b696-d5e939afec12
 - Pandas, NumPy, Scikit-learn  
 
 
-
-
+Dataset: [Resume Dataset on Kaggle](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset)
