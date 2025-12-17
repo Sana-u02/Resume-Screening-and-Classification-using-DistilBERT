@@ -2,8 +2,7 @@
 AI-powered resume screener that automatically classifies resumes into job categories, extracts skills, detects experience level, and provides a match score using **DistilBERT**. Helps recruiters quickly identify suitable candidates.
 
 
-
-https://github.com/user-attachments/assets/66c5c104-5f11-45a7-b696-d5e939afec12
+https://github.com/user-attachments/assets/a7e9f3c5-d16e-4bfd-8d1a-10548f454cf7
 
 
 ## Features
@@ -22,3 +21,6 @@ https://github.com/user-attachments/assets/66c5c104-5f11-45a7-b696-d5e939afec12
 
 
 Dataset: [Resume Dataset on Kaggle](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset)
+
+
+
