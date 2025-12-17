@@ -1,9 +1,10 @@
 # Resume Screening using DistilBERT
-
-## Description
 AI-powered resume screener that automatically classifies resumes into job categories, extracts skills, detects experience level, and provides a match score using **DistilBERT**. Helps recruiters quickly identify suitable candidates.
 
-![App Demo](https://github.com/user-attachments/assets/66c5c104-5f11-45a7-b696-d5e939afec12)
+
+
+https://github.com/user-attachments/assets/66c5c104-5f11-45a7-b696-d5e939afec12
+
 
 ## Features
 - Resume classification into predefined job roles  
