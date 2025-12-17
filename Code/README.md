@@ -1,5 +1,4 @@
-
-## Project overview and documentation.
+# Project overview and documentation.
 
  **Resume Screening using DistilBERT.ipynb - Colab.pdf**  
   Exported PDF of the Google Colab notebook showing data preprocessing, model training, and evaluation steps.
@@ -11,12 +10,10 @@
   - DistilBERT fine-tuning  
   - Model evaluation  
 
-
-**app.py**
-
+**app.py**   
 This is the main **Streamlit application file** for the Resume Screening system.
 
-### What it does
+## What it does
 - Loads the trained DistilBERT model and tokenizer  
 - Accepts resume uploads in PDF, DOCX, and TXT formats  
 - Predicts job category from resume text  
